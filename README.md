@@ -29,9 +29,18 @@
 </dl>
 
 
+
 </br></br>
 
 # 💻 Tech Stack 
+
+<div>
+    <ul>
+        <li><summary><h2 style="display: inline-block;">Programming Languages:</h2></summary></li>
+    </ul>
+
+</div>
+
 
 * ## Programming Languages:
   <dd>
