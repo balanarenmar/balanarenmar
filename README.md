@@ -18,12 +18,14 @@
 
 </br></br>
 
-# 🌐 Connect with me! 
+# 🌐 Connect with me!
+<dd>
 <p align="left">
-
-<a href="https://linkedin.com/in/balanarenmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.facebook.com/renmarbalana.4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/balanarenmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+    <a href="https://www.facebook.com/renmarbalana.4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
 </p>
+</dd>
+
 
 </br></br>
 
@@ -43,9 +45,6 @@
     </p>
   </dd>
 
-
-</br>
-
 * ##  Machine Learning:
   <dd>
     <p align="left" margin=5px>
@@ -53,8 +52,6 @@
         <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
     </p>
   </dd>
-
-</br>
 
 * ##  Web Dev:
   <dd>
@@ -65,8 +62,6 @@
         <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="bootstrap" width="40" height="40"/> </a>
     </p>
   </dd>
-
-</br>
 
 * ##  Other Developer Tools:
   <dd>
