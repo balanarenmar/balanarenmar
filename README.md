@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **renmarfrancia.balana@bicol-u.edu.ph**
 
-- 📄 Know about my experiences [**https://www.linkedin.com/in/balanarenmar/**](https://www.linkedin.com/in/balanarenmar/)
+- 📄 Know about my experiences [**https://www.linkedin.com/in/balanarenmar/**](https://www.linkedin.com/in/balanarenmar/), or visit my [personal website...](https://balanarenmar.github.io/index)
 
 - ⚡ **Fun fact:** What do plants and code have in common? --The need for debugging (pests)!
 
