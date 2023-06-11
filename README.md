@@ -77,7 +77,6 @@
 
 </br></br>
 
-https://github-readme-stats-sigma-five.vercel.app
 # 📊 GitHub Stats:
 
 <p align="center"><img src=https://github-readme-stats-sigma-five.vercel.app/api?username=balanarenmar&show_icons=true&theme=tokyonight alt=githubStats /></p>
