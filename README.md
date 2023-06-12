@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences through [**linkedin**](https://www.linkedin.com/in/balanarenmar/), or visit my [**personal website...**](https://balanarenmar.github.io/index)
 
-- ⚡ **Fun fact:** What do plants and code have in common? --The need for debugging (pests)!
+- ⚡ **Fun fact:** What do plants and code have in common? --The need for debugging!
 
 </br></br>
 
