@@ -77,6 +77,9 @@
 
 </br></br>
 
+
+[![](https://visitcount.itsvg.in/api?id=balanarenmar&icon=0&color=1)](https://visitcount.itsvg.in)
+
 # 📊 GitHub Stats:
 
 <p align="center"><img src=https://github-readme-stats-sigma-five.vercel.app/api?username=balanarenmar&show_icons=true&theme=tokyonight alt=githubStats /></p>
@@ -85,10 +88,9 @@
 <p align="center"><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=balanarenmar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&langs_count=10&layout=compact&hide=jupyternotebook alt=usedLanguages/></p> 
 
 
-</br>
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=balanarenmar&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
-[![](https://visitcount.itsvg.in/api?id=balanarenmar&icon=0&color=1)](https://visitcount.itsvg.in)
+
