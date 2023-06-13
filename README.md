@@ -82,9 +82,9 @@
 <p align="center"><img src=https://github-readme-stats-sigma-five.vercel.app/api?username=balanarenmar&show_icons=true&theme=tokyonight alt=githubStats /></p>
 <p align="center"><img src=https://github-readme-streak-stats.herokuapp.com/?user=balanarenmar&theme=tokyonight&hide_border=false&count_private=true alt=githubStats /></p>
  <p align="center"><img src=https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=balanarenmar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&langs_count=10&layout=compact&hide=jupyternotebook alt=usedLanguages/></p> <!-- -->
-<p align="center"><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=balanarenmar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&langs_count=10&layout=compact alt=usedLanguages/></p>
+<p align="center"><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=balanarenmar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&langs_count=10&layout=compact&hide=jupyternotebook alt=usedLanguages/></p>
 
-<p align="center"><img src=https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=balanarenmar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&langs_count=10&layout=compact alt=usedLanguages/></p>
+
 </br>
 
 ---
