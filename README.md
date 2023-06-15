@@ -65,9 +65,9 @@
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FPHP_logo.png&f=1&nofb=1&ipt=a97eb7a0a314cb6b77908317b211a85622254b39952d5c2aa38fa1dd634debc3&ipo=images" width="40" height="30"/></a>
                     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  
-                </p>
+
             </dd>
+        
         <li><summary><h2 style="display: inline-block;">Other Developer Tools:</h2></summary></li>
             <dd>
                 <p align="left" margin=5px>
