@@ -59,15 +59,11 @@
                 <p align="left" margin=5px>
                     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
                     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-                    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-                    <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="bootstrap" width="40" height="40"/> </a>
-                    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FPHP_logo.png&f=1&nofb=1&ipt=a97eb7a0a314cb6b77908317b211a85622254b39952d5c2aa38fa1dd634debc3&ipo=images" width="40" height="30"/></a>
-                    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-
+                    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="bootstrap" width="40" height="40"/> </a>
+                    <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FPHP_logo.png&f=1&nofb=1&ipt=a97eb7a0a314cb6b77908317b211a85622254b39952d5c2aa38fa1dd634debc3&ipo=images" width="40" height="30"/></a>
+                    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+                </p>
             </dd>
-        
         <li><summary><h2 style="display: inline-block;">Other Developer Tools:</h2></summary></li>
             <dd>
                 <p align="left" margin=5px>
@@ -78,6 +74,7 @@
                 </p>
             </dd>
     </ul>
+    
 </div>
 
 </br></br>
